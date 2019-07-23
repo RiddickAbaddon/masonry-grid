@@ -40,3 +40,6 @@ var masonry_grid = new MasonryGrid('.masonry-grid-element', {
 You can specify the following properties:
 `columns`, `gridGap`, `alignHeight`
 These properties will be applied to the screen width above the breakpoint value.
+
+# Demo
+https://demo.marcin-kalinowski.pl/masonry-grid/
